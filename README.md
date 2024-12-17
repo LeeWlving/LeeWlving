@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeeWlving
 - 👀 I’m interested in CV research and deep learning.
 - 🌱 I’m currently study in University of Macau.
-- 📫 How to reach me at email leewlving@gmail.com.
+- 📫 How to reach me at email lee_wlving@naver.com.
 
 <!---
 LeeWlving/LeeWlving is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
